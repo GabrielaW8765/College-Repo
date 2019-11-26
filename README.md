@@ -11,4 +11,6 @@
 <ul>
     <li> A <ins> 1210 </ins> or higher on your SAT.</li>
     <li> A <ins> 3.79 </ins> or higher GPA. </li>
-    <li> Shows that you have 4 units of English, 4 units of social studies, 3 units of mathematics (4 units required for engineering and applied sciences), 3 units of science (4 units required for engineering and applied sciences)and, 2 or 3 units of a foreign language
+    <li> Shows that you have 4 units of English, 4 units of social studies, 3 units of mathematics (4 units required for engineering and applied sciences), 3 units of science (4 units required for engineering and applied sciences)and, 2 or 3 units of a foreign language. 
+        
+They like to see a lot on your transcript!
